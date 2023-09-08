@@ -1,5 +1,5 @@
 ### Hello World, I'm Indra :wave: :man_teacher:
-
+People who managed to take advantage of the mistakes that he did, and will try again to perform in a different way.
 <!--
 **indraardianto/indraardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
