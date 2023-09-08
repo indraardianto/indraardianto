@@ -1,4 +1,4 @@
-### Hello World, I'm indradto :wave: :man_teacher:
+### Hello World, I'm Indra :wave: :man_teacher:
 Welcome to my page !
 <!--
 **indraardianto/indraardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
