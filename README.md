@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
 
+## &#x1f4c8; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=indraardianto&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indraardianto&theme=radical&hide_border=true"/>
