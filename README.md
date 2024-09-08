@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
- <img src="https://github-readme-stats.vercel.app/api?username=indraardianto&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
-
+ <div class="row">
+  <div class="col-md-12">
+   <div class="col-md-6">
+    <img src="https://github-readme-stats.vercel.app/api?username=indraardianto&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
+  </div>
+   <div class="col-md-6">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=indraardianto&theme=radical&hide_border=true"/>
+  </div>
+ </div>
+ 
