@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/indraardianto/indraardianto">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=indraardianto&theme=radical&show_icons=true&hide_border=true&count_private=true"/>
@@ -37,4 +33,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/indraardianto/indraardianto">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indraardianto&theme=radical&hide_border=true"/>
 </a>
- 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
