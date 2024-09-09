@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/indraardianto/indraardianto">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&hide_border=true&theme=dark#gh-dark-mode-only"/>
 </a>
 
 <a href="https://github.com/indraardianto/indraardianto">
