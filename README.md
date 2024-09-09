@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/indraardianto/indraardianto">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indraardianto&theme=radical&hide_border=true"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&theme=dark#gh-dark-mode-only"/>
 
 </a>
 
