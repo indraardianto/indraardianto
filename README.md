@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/indraardianto/indraardianto">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indraardianto&hide_border=true&theme=dark#gh-dark-mode-only"/>
 </a>
+-->
 
 <a href="https://github.com/indraardianto/indraardianto">
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indraardianto&theme=radical&hide_border=true"/> -->
