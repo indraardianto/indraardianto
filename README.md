@@ -1,4 +1,4 @@
-### Hello World, I'm Indra :wave: :man_teacher:
+### Saya aslinya 2 orang
 <!--Welcome to my page ! -->
 <!--
 **indraardianto/indraardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
