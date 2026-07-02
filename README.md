@@ -1,4 +1,4 @@
-### Saya aslinya 2 orang
+### Hi..!!
 <!--Welcome to my page ! -->
 <!--
 **indraardianto/indraardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
